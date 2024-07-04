@@ -1,10 +1,8 @@
 
-# 
-
-A brief description of what this project does and who it's for
+# FINDING ME ON SOCIAL PLATFROM
 
 
-## 🚀 About Me
+## 🚀 About Myself
 I'm a student who wants to work on web developer...
 
 
@@ -14,7 +12,4 @@ I'm a student who wants to work on web developer...
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 https://x.com/Tasneem_Otoshi_
 
-## file:///C:/Users/user/Downloads/Blue%20Web%20Developer%20Resume.pdf
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
